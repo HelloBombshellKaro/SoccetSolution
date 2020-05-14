@@ -1,0 +1,7 @@
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\bin\Debug\Gniazdka.exe.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\bin\Debug\Gniazdka.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\bin\Debug\Gniazdka.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\obj\Debug\Gniazdka.csprojAssemblyReference.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\obj\Debug\Gniazdka.csproj.CoreCompileInputs.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\obj\Debug\Gniazdka.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Gniazdka\obj\Debug\Gniazdka.pdb

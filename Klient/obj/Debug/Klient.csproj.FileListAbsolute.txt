@@ -1,0 +1,7 @@
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\bin\Debug\Klient.exe.config
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\bin\Debug\Klient.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\bin\Debug\Klient.pdb
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\obj\Debug\Klient.exe
+E:\OneDrive\WWSI\Programowanie komponentowe i rozproszone\Wykłady\GniazdkaSolution\Klient\obj\Debug\Klient.pdb
